@@ -1,0 +1,1 @@
+export const secretKey = 'jwt!991620123Ws'
